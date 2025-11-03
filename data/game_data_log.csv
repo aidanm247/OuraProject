@@ -1,0 +1,2 @@
+date, team, venue, game_time, bus_time, total_sleep,light_sleep, deep_sleep, rem_sleep, awake_time, bedtime_start, bedtime_end, sleep_score, readiness_score, efficiency, pain, soreness, rehab, lift, minutes, pts, orebs, drebs, stl, ast, blk, tov, pf, fg_attempted, fgm, threept_attempted, threeptm, ftm, ft_attempted, plus_minus
+11/01/2025, Hampden_Syndey, away, 15:30, 2:30m, 7:28, 4:31, 1:40, 1:17, 0:44, 11:56, 7:24, 78, 81, 91, 2, 2, false, false, 20, 5, 5, 2, 1, 1, 0, 1, 5, 7, 2, 1, 1, 0, 0, -6
