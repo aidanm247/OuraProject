@@ -31,8 +31,7 @@ load_dotenv('.env.local')
 
 # Page config
 st.set_page_config(
-    page_title="Sleep, Pain & Performance Analytics",
-    page_icon="�",
+    page_title="How does sleep affect chronic tendon pain and performance?",
     layout="wide",
     initial_sidebar_state="expanded"
 )
