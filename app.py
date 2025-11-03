@@ -729,6 +729,7 @@ def main():
                     This will be an ongoing project throughout my season. It will be fully automated using the Oura API and 
                     scraping data from gettysburgathletics.com for my game logs. More to come --- stay tuned!
                     """)
+    st.markdown("See my full portfolio [here](https://aidanmess.com/).")
     
     # Try to load game data
     try:
